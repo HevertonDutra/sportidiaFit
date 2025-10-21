@@ -1,0 +1,30 @@
+{
+  "name": "SportidiaFit",
+  "displayName": "SportidiaFit",
+  "slug": "sportidia-fit",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "userInterfaceStyle": "automatic",
+  "splash": {
+    "resizeMode": "contain",
+    "backgroundColor": "#667eea"
+  },
+  "assetBundlePatterns": [
+    "**/*"
+  ],
+  "ios": {
+    "supportsTablet": true
+  },
+  "android": {
+    "adaptiveIcon": {
+      "backgroundColor": "#667eea"
+    },
+    "package": "com.sportidiafit"
+  },
+  "web": {
+    "bundler": "metro",
+    "output": "static"
+  },
+  "platforms": ["ios", "android", "web"],
+  "scheme": "sportidiafit"
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Fork -->
+  <path d="M100 140v240c0 8 7 15 15 15s15-7 15-15V140c0-8-7-15-15-15s-15 7-15 15z" fill="currentColor"/>
+  <path d="M95 120h10v20h-10v-20z" fill="currentColor"/>
+  <path d="M105 120h10v20h-10v-20z" fill="currentColor"/>
+  <path d="M115 120h10v20h-10v-20z" fill="currentColor"/>
+  <path d="M125 120h10v30h-10v-30z" fill="currentColor"/>
+  
+  <!-- Knife -->
+  <path d="M387 140v240c0 8 7 15 15 15s15-7 15-15V140c0-8-7-15-15-15s-15 7-15 15z" fill="currentColor"/>
+  <path d="M395 120h20v20h-20v-20z" fill="currentColor"/>
+  
+  <!-- Plate with leaves -->
+  <circle cx="256" cy="256" r="80" fill="none" stroke="currentColor" stroke-width="8"/>
+  <circle cx="256" cy="256" r="60" fill="none" stroke="currentColor" stroke-width="4"/>
+  
+  <!-- Leaves -->
+  <path d="M230 220c-15-10-35-5-40 15s10 35 25 30c8-3 12-10 15-20l0-25z" fill="currentColor"/>
+  <path d="M282 220c15-10 35-5 40 15s-10 35-25 30c-8-3-12-10-15-20l0-25z" fill="currentColor"/>
+  <path d="M256 270c0-15-10-25-20-25s-20 10-20 25 15 30 20 25c3-3 20-15 20-25z" fill="currentColor"/>
+  <path d="M276 270c0-15 10-25 20-25s20 10 20 25-15 30-20 25c-3-3-20-15-20-25z" fill="currentColor"/>
+</svg>
